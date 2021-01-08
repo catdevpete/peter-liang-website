@@ -1,0 +1,181 @@
+html {
+	-ms-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+}
+
+body {
+	background-color: #303030;
+	-ms-overflow-style: none;
+	scrollbar-width: none;
+}
+
+body::-webkit-scrollbar {
+	display: none;
+}
+
+#bottom {
+	color: #eeeeee;
+	font-family: 'Montserrat', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+}
+
+.container {
+	color: #dedede;
+	font-family: 'Montserrat', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+}
+
+#header-box a {
+	font-family: 'open-sans', 'Helvetica Neue', Arial, sans-serif;
+	font-size: 24px;
+	text-decoration: none;
+	color: white;
+	display: inline-block;
+	border-style: solid;
+	border-width: 5px;
+	border-color: white;
+	margin-top: 20px;
+	padding: 10px 20px;
+	-webkit-transition: color 0.5s ease;
+	-moz-transition: color 0.5s ease;
+	-o-transition: color 0.5s ease;
+	-ms-transition: color 0.5s ease;
+	transition: color 0.5s ease;
+	-webkit-transition: background-color 0.5s ease;
+	-moz-transition: background-color 0.5s ease;
+	-o-transition: background-color 0.5s ease;
+	-ms-transition: background-color 0.5s ease;
+	transition: background-color 0.5s ease;
+}
+
+#header-box a:hover {
+	background: white;
+	color: #303030;
+}
+
+.heading {
+	font-size: 32px;
+	line-height: 120%;
+}
+
+.grid-item, .portfolio-item {
+	display: grid;
+	cursor: pointer;
+}
+
+.grid-item a, .darken, .borderline, .portfolio-text {
+	grid-area: 1 / 1;
+}
+
+.portfolio-item a, .darken, .borderline, .portfolio-text {
+	grid-area: 1 / 1;
+}
+
+.portfolio-item {
+	width: 100%;
+	height: 157.5px;
+}
+
+.portfolio-item img {
+	width: 100%;
+	height: 157.5px;
+	object-fit: cover;
+}
+
+.placeholder {
+	width: 100%;
+	height: 100%;
+	color: white;
+	background-image: linear-gradient(45deg, #303030 25%, #404040 25%, #404040 50%, #303030 50%, #303030 75%, #404040 75%, #404040 100%);
+	background-size: 113.14px 113.14px;
+}
+
+.placeholder .portfolio-text p {
+	color: #999999;
+	text-decoration: none;
+}
+
+.darken {
+	width: 100%;
+	height: 100%;
+	background-color: rgba(48, 48, 48, .75);
+}
+
+.portfolio-text {
+	width: 100%;
+	height: 100%;
+}
+
+.portfolio-text p {
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	font-size: 1.5em;
+	font-family: 'Montserrat', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	padding: 10%;
+}
+
+.borderline {
+	width: 100%;
+	height: 100%;
+	opacity: 0;
+	border-style: solid;
+	border-width: 3px;
+	border-color: white;
+	-webkit-transition: opacity 0.5s ease;
+	-moz-transition: opacity 0.5s ease;
+	-o-transition: opacity 0.5s ease;
+	-ms-transition: opacity 0.5s ease;
+	transition: opacity .5s ease;
+}
+
+.borderline:hover {
+	opacity: 1;
+}
+
+@media only screen and (max-width: 985px) {
+	#top {
+		width: 100%;
+		text-align: center;
+	}
+	#header-box a {
+		display: inline-block;
+	}
+	#title {
+		display: grid;
+		grid-gap: 0;
+		grid-template-columns: repeat(2, 1fr);
+	}
+	.heading-1 {
+		text-align: right;
+	}
+	.heading-2 {
+		text-align: left;
+	}
+}
+
+.customcontrols {
+	font-size: 0;
+}
+
+.customcontrols figcaption {
+	background: rgba(0, 0, 0, 0.6);
+	display: none;
+	color: #fff;
+	padding: .5em;
+	position: relative;
+	top: -4.4rem;
+	text-align: right;
+	margin-bottom: -4.4rem;
+}
+
+.customcontrols figcaption a {
+	text-decoration: none;
+	font-size: 3.1rem;
+	color: #fff;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
