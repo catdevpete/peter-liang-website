@@ -148,14 +148,38 @@ body::-webkit-scrollbar {
 	#header-box a {
 		display: inline-block;
 	}
-	#title {
-		display: grid;
-		grid-gap: 0;
-		grid-template-columns: repeat(2, 1fr);
-	}
 	.heading {
+		width: 100%;
+	}
+	.heading p {
 		text-align: center;
 	}
+}
+
+.modal {
+	text-align: center;
+}
+
+.modal:before {
+	display: inline-block;
+	vertical-align: middle;
+	content: " ";
+	height: 100%;
+}
+
+.modal-dialog {
+	display: inline-block;
+	text-align: left;
+	vertical-align: middle;
+	width: 70%;
+}
+
+.modal-body {
+	width: 100%;
+}
+
+.modal-body img {
+	width: 100%;
 }
 
 .customcontrols {
