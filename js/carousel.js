@@ -9,10 +9,10 @@ $(document).ready(function() {
 	var currentMove;
 	var time = 0;
 
-	var moviecontainers = document.getElementsByClassName("customcontrols");
+	var players = document.querySelectorAll('.ckin__player');
 
-	Array.prototype.forEach.call(moviecontainers, function (element) {
-		var movie = element.querySelector("video");
+	players.forEach(function (player) {
+		var movie = player.querySelector("video");
 
 		movie.addEventListener('play', (event) => {
 			$('#carousel-custom').carousel('pause');
@@ -104,14 +104,10 @@ $(document).ready(function() {
 	});
 
 	function stopAllVideos() {
-		var moviecontainers = document.getElementsByClassName("customcontrols");
+		var players = document.querySelectorAll('.ckin__player');
 
-		Array.prototype.forEach.call(moviecontainers, function (element) {
-			var movie = element.querySelector("video"),
-				controls = element.querySelector("figcaption"),
-				playpause = controls.querySelector("a");
-			movie.load();
-			playpause.innerHTML = "►";
+		players.forEach(function (player) {
+			player.querySelector("video").pause();
 		});
 	}
 	
