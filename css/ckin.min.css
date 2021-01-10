@@ -483,9 +483,9 @@ video {
 	display: -ms-flexbox;
 	display: flex;
 	position: absolute;
-	max-width: 400px;
+	max-width: 500px;
 	bottom: 0;
-	right: 0;
+	right: -20%;
 	left: 50%;
 	transition: all .3s;
 	-ms-flex-wrap: wrap;
