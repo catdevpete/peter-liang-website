@@ -62,16 +62,31 @@ body::-webkit-scrollbar {
 	line-height: 120%;
 }
 
-.grid-item, .portfolio-item {
+.grid-item a {
 	display: grid;
-	cursor: pointer;
+	text-decoration: none;
+	color: #dedede;
 }
 
-.grid-item a, .darken, .borderline, .portfolio-text {
+.portfolio-item a {
+	display: grid;
+	text-decoration: none;
+	color: #dedede;
+}
+
+.grid-item img {
+	pointer-events: none;
+}
+
+.portfolio-item img {
+	pointer-events: none;
+}
+
+.grid-item img, .darken, .borderline, .portfolio-text {
 	grid-area: 1 / 1;
 }
 
-.portfolio-item a, .darken, .borderline, .portfolio-text {
+.portfolio-item img, .darken, .borderline, .portfolio-text {
 	grid-area: 1 / 1;
 }
 
