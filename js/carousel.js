@@ -1,3 +1,32 @@
+// Youtube API
+var tag = document.createElement('script');
+tag.src = "https://www.youtube.com/iframe_api";
+var firstScriptTag = document.getElementsByTagName('script')[0];
+firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+function onYouTubeIframeAPIReady() {
+
+    var players = document.querySelectorAll('.yt_player_iframe');
+
+    players.forEach(function (player) {
+        var ytplayer = new YT.Player(player.id, {
+            events: {
+                'onStateChange': onPlayerStateChange
+            }
+        });
+    });
+}
+
+function onPlayerStateChange(event) {
+    if (event.data == YT.PlayerState.PLAYING) {
+        $('#carousel-custom').carousel('pause');
+    }
+
+    else if (event.data == YT.PlayerState.PAUSED) {
+        $('#carousel-custom').carousel('cycle');
+    }
+}
+
 $(document).ready(function() {
 	var width;
 	var curPos = 0;
@@ -9,6 +38,7 @@ $(document).ready(function() {
 	var currentMove;
 	var time = 0;
 
+    // Ckin video API
 	var players = document.querySelectorAll('.ckin__player');
 
 	players.forEach(function (player) {
@@ -22,6 +52,20 @@ $(document).ready(function() {
 			$('#carousel-custom').carousel('cycle');
 		});
 	});
+
+    // Vimeo API
+    players = document.querySelectorAll('.vimeo');
+    players.forEach(function (player) {
+        var iframe = document.querySelector('#' + player.id);
+        var player = new Vimeo.Player(iframe);
+        player.on('play', function () {
+            $('#carousel-custom').carousel('pause');
+        });
+        player.on('pause', function () {
+            $('#carousel-custom').carousel('cycle');
+        });
+    });
+
 	
 	jQuery('.carousel-container').scrollbar({ 
 		"onScroll": function(y, x){ 
@@ -109,6 +153,17 @@ $(document).ready(function() {
 		players.forEach(function (player) {
 			player.querySelector("video").pause();
 		});
+
+        $('.yt_player_iframe').each(function () {
+            this.contentWindow.postMessage('{"event":"command","func":"pauseVideo","args":""}', '*')
+        });
+
+        players = document.querySelectorAll('.vimeo');
+        players.forEach(function (player) {
+            var iframe = document.querySelector('#' + player.id);
+            var player = new Vimeo.Player(iframe);
+            player.pause();
+        });
 	}
 	
 	function smooth(step) {
