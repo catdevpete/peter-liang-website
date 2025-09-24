@@ -4,10 +4,10 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta name="description" content="All Our Paradise">
+		<meta name="description" content="Vantari VR">
 		<meta name="author" content="Peter Liang">
 
-		<title>Peter Liang - All Our Paradise</title>
+		<title>Peter Liang - Vantari VR</title>
 		<link rel="icon" type="image/png" href="../img/catdevpete-icon.png">
 
 		<!-- Latest compiled and minified CSS -->
@@ -32,9 +32,9 @@
 	<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top" >
 
 		<div id="modal-1" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="screenshot_1" aria-hidden="true">
-			<div class="modal-dialog modal-xl">
+			<div class="modal-dialog">
 				<div class="modal-content">
-					<div class="modal-body"><img src="../img/all-our-paradise/screenshot_1.png" class="img-responsive"></div>
+					<div class="modal-body"><img src="../img/vantari/screenshot_1.png" class="img-responsive"></div>
 				</div>
 			</div>
 		</div>
@@ -42,15 +42,15 @@
 		<div id="modal-2" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="screenshot_2" aria-hidden="true">
 			<div class="modal-dialog">
 				<div class="modal-content">
-					<div class="modal-body"><img src="../img/all-our-paradise/screenshot_2.png" class="img-responsive"></div>
+					<div class="modal-body"><img src="../img/vantari/screenshot_2.png" class="img-responsive"></div>
 				</div>
 			</div>
 		</div>
-
+		
 		<div id="modal-3" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="screenshot_3" aria-hidden="true">
 			<div class="modal-dialog">
 				<div class="modal-content">
-					<div class="modal-body"><img src="../img/all-our-paradise/screenshot_3.png" class="img-responsive"></div>
+					<div class="modal-body"><img src="../img/vantari/screenshot_3.png" class="img-responsive"></div>
 				</div>
 			</div>
 		</div>
@@ -58,15 +58,23 @@
 		<div id="modal-4" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="screenshot_4" aria-hidden="true">
 			<div class="modal-dialog">
 				<div class="modal-content">
-					<div class="modal-body"><img src="../img/all-our-paradise/screenshot_4.png" class="img-responsive"></div>
+					<div class="modal-body"><img src="../img/vantari/screenshot_4.png" class="img-responsive"></div>
+				</div>
+			</div>
+		</div>
+		
+		<div id="modal-5" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="screenshot_5" aria-hidden="true">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<div class="modal-body"><img src="../img/vantari/screenshot_5.png" class="img-responsive"></div>
 				</div>
 			</div>
 		</div>
 
-		<div id="modal-5" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="screenshot_5" aria-hidden="true">
+		<div id="modal-6" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="screenshot_6" aria-hidden="true">
 			<div class="modal-dialog">
 				<div class="modal-content">
-					<div class="modal-body"><img src="../img/all-our-paradise/screenshot_5.png" class="img-responsive"></div>
+					<div class="modal-body"><img src="../img/vantari/screenshot_6.png" class="img-responsive"></div>
 				</div>
 			</div>
 		</div>
@@ -76,13 +84,13 @@
 
 			<div id="top">
 				<!-- <img src="img/catdevpete-icon.png" alt="catdevpete"> -->
-				<div id="header-box"><a href="../index.html"><b>PETER LIANG</b></a></div>
+				<div id="header-box"><a href="../index.php"><b>PETER LIANG</b></a></div>
 			</div>
 
 			<!-- Portfolio Item Heading -->
 			<div class="row" style="padding-top: 2em">
 				<div class="col-lg-12">
-					<h1 class="page-header">All Our Paradise</h1>
+					<h1 class="page-header">Vantari VR</h1>
 				</div>
 			</div>
 			<!-- /.row -->
@@ -96,23 +104,34 @@
 							<!-- Wrapper for slides -->
 							<div class='carousel-inner'>
 								<div class='item active' data-slide-number='0'>
-                                    <img src='../img/o-koi/video_preview_1.png' alt='' />
-                                    <iframe id="youtube_player1" class="yt_player_iframe" src="https://www.youtube.com/embed/SCF_OUmqlLE?enablejsapi=1&version=3&playerapiid=ytplayer"  allowfullscreen="true" allowscriptaccess="always" frameborder="0"></iframe>
+									<img src='../img/vantari/video_preview_1.png' alt=''></img>
+									<iframe id="youtube_player1" class="yt_player_iframe" src="https://www.youtube.com/embed/5BQ9RnPmJCg?enablejsapi=1&version=3&playerapiid=ytplayer"  allowfullscreen="true" allowscriptaccess="always" frameborder="0"></iframe>
 								</div>
-								<div class='item' data-slide-number='1'>
-									<a href="#modal-1" data-toggle="modal" data-target="#modal-1"><img src='../img/all-our-paradise/screenshot_1.png' alt='' /></a>
+                                <div class='item' data-slide-number='1'>
+									<img src='../img/vantari/video_preview_1.png' alt=''></img>
+									<iframe id="youtube_player2" class="yt_player_iframe" src="https://www.youtube.com/embed/J9ZaU_Cr-pQ?enablejsapi=1&version=3&playerapiid=ytplayer"  allowfullscreen="true" allowscriptaccess="always" frameborder="0"></iframe>
 								</div>
-								<div class='item' data-slide-number='2'>
-									<a href="#modal-2" data-toggle="modal" data-target="#modal-2"><img src='../img/all-our-paradise/screenshot_2.png' alt='' /></a>
+                                <div class='item' data-slide-number='2'>
+									<img src='../img/vantari/video_preview_1.png' alt=''></img>
+									<iframe id="youtube_player3" class="yt_player_iframe" src="https://www.youtube.com/embed/7_vFV8TY7nw?enablejsapi=1&version=3&playerapiid=ytplayer"  allowfullscreen="true" allowscriptaccess="always" frameborder="0"></iframe>
 								</div>
 								<div class='item' data-slide-number='3'>
-									<a href="#modal-3" data-toggle="modal" data-target="#modal-3"><img src='../img/all-our-paradise/screenshot_3.png' alt='' /></a>
+									<a href="#modal-1" data-toggle="modal" data-target="#modal-1"><img src='../img/vantari/screenshot_1.png' alt='' /></a>
 								</div>
 								<div class='item' data-slide-number='4'>
-									<a href="#modal-4" data-toggle="modal" data-target="#modal-4"><img src='../img/all-our-paradise/screenshot_4.png' alt='' /></a>
+									<a href="#modal-2" data-toggle="modal" data-target="#modal-2"><img src='../img/vantari/screenshot_2.png' alt='' /></a>
 								</div>
 								<div class='item' data-slide-number='5'>
-									<a href="#modal-5" data-toggle="modal" data-target="#modal-5"><img src='../img/all-our-paradise/screenshot_5.png' alt='' /></a>
+									<a href="#modal-3" data-toggle="modal" data-target="#modal-3"><img src='../img/vantari/screenshot_3.png' alt='' /></a>
+								</div>
+								<div class='item' data-slide-number='6'>
+									<a href="#modal-4" data-toggle="modal" data-target="#modal-4"><img src='../img/vantari/screenshot_4.png' alt='' /></a>
+								</div>
+								<div class='item' data-slide-number='7'>
+									<a href="#modal-5" data-toggle="modal" data-target="#modal-5"><img src='../img/vantari/screenshot_5.png' alt='' /></a>
+								</div>
+								<div class='item' data-slide-number='8'>
+									<a href="#modal-6" data-toggle="modal" data-target="#modal-6"><img src='../img/vantari/screenshot_6.png' alt='' /></a>
 								</div>
 							</div>
 								
@@ -127,12 +146,15 @@
 						
 						<div id='slider-thumbs' class='carousel-container scrollbar-inner'>
 							<ul>
-							<li id="carousel-selector-0" class='active'><img src='../img/all-our-paradise/video_thumbnail_1.png' alt='' /></li>
-							<li id="carousel-selector-1"><img src='../img/all-our-paradise/screenshot_thumbnail_1.png' alt='' /></li>
-							<li id="carousel-selector-2"><img src='../img/all-our-paradise/screenshot_thumbnail_2.png' alt='' /></li>
-							<li id="carousel-selector-3"><img src='../img/all-our-paradise/screenshot_thumbnail_3.png' alt='' /></li>
-							<li id="carousel-selector-4"><img src='../img/all-our-paradise/screenshot_thumbnail_4.png' alt='' /></li>
-							<li id="carousel-selector-5"><img src='../img/all-our-paradise/screenshot_thumbnail_5.png' alt='' /></li>
+							<li id="carousel-selector-0" class='active'><img src='../img/vantari/video_thumbnail_1.png' alt='' /></li>
+							<li id="carousel-selector-1"><img src='../img/vantari/video_thumbnail_2.png' alt='' /></li>
+							<li id="carousel-selector-2"><img src='../img/vantari/video_thumbnail_3.png' alt='' /></li>
+							<li id="carousel-selector-3"><img src='../img/vantari/screenshot_thumbnail_1.png' alt='' /></li>
+							<li id="carousel-selector-4"><img src='../img/vantari/screenshot_thumbnail_2.png' alt='' /></li>
+							<li id="carousel-selector-5"><img src='../img/vantari/screenshot_thumbnail_3.png' alt='' /></li>
+							<li id="carousel-selector-6"><img src='../img/vantari/screenshot_thumbnail_4.png' alt='' /></li>
+							<li id="carousel-selector-7"><img src='../img/vantari/screenshot_thumbnail_5.png' alt='' /></li>
+							<li id="carousel-selector-8"><img src='../img/vantari/screenshot_thumbnail_6.png' alt='' /></li>
 							</ul>
 						</div>
 					</div>
@@ -140,20 +162,18 @@
 
 				<div class="col-md-4">
 					<h3>Project Description</h3>
-					<p>All Our Paradise is a Augmented Reality experience developed on the Unity engine.</p>
-					<p>The experience was a collaboration with <a href="https://www.ambiguityart.com/">Edison Chen</a>, and based off his existing experience called <a href="https://www.ambiguityart.com/hyperdimensionalfriends">"HyperDimensional Friends"</a>.</p>
-					<p>The experience was operational from September to October of 2019, at the Chatswood NSW Concourse.</p>
+					<p>Vantari VR is a Virtual Reality application developed on the Unreal engine.</p>
+					<p>The application is owned by Vantari VR, and is designed to be a training and assessment tool for doctors & hospitals.</p>
+					<p>It has been publicly promoted by Channel Nine Australia in 2020.</p>
 					<h3>Project Details</h3>
 					<ul>
-						<li>Made in Unity</li>
-						<li>AR-based experience, using Computer Vision</li>
-						<li>Debuted in 2019 at Chatswood</li>
-						<li>Launched for Willoughby Visual Arts Biennial</li>
+						<li>Made in Unreal</li>
+						<li>PC VR-based simulation application</li>
+						<li>Targeting Oculus Rift S & Oculus Quest</li>
 					</ul>
 					<h3>Product Links</h3>
-					<h4 style="text-indent: 0.5em"><a href="https://www.ambiguityart.com/"><i class="fab fa-chrome fa-inverse"></i> Artist's Website</a></h4>
-					<h4 style="text-indent: 0.5em"><a href="https://www.ambiguityart.com/allourparadise"><i class="fab fa-chrome fa-inverse"></i> App's Webpage</a></h4>
-					<h4 style="text-indent: 0.5em"><a href="https://www.facebook.com/AmbiguityArt/posts/2464466530263433"><i class="fab fa-facebook fa-inverse"></i> Facebook Post</a></h4>
+					<h4 style="text-indent: 0.5em"><a href="https://www.vantarivr.com.au/"><i class="fab fa-chrome fa-inverse"></i> Official Website</a></h4>
+					<h4 style="text-indent: 0.5em"><a href="https://www.youtube.com/channel/UC4tYqeWFTUfn7CNt8cTmYdQ"><i class="fab fa-youtube fa-inverse"></i> Youtube Account</a></h4>
 				</div>
 
 			</div>
@@ -168,25 +188,7 @@
 
 				<div class="col-sm-3 col-xs-6">
 					<div class="portfolio-item">
-						<a href="../pages/o-koi.html">
-							<img src="../img/o-koi/thumbnail.png" alt="Everything is going to be O-Koi">
-							<div class="borderline"><div class="darken"><div class="portfolio-text"><p>Everything is going to be O-Koi</p></div></div></div>
-						</a>
-					</div>
-				</div>
-
-				<div class="col-sm-3 col-xs-6">
-					<div class="portfolio-item">
-						<a href="../pages/dr-egg.html">
-							<img src="../img/dr-egg-adventure-lab/thumbnail.png" alt="Dr. Egg Adventure Laboratory">
-							<div class="borderline"><div class="darken"><div class="portfolio-text"><p>Dr. Egg Adventure Laboratory</p></div></div></div>
-						</a>
-					</div>
-				</div>
-
-				<div class="col-sm-3 col-xs-6">
-					<div class="portfolio-item">
-						<a href="../pages/unity-midi-piano.html">
+						<a href="../pages/unity-midi-piano.php">
 							<img src="../img/unity-midi-piano/thumbnail.png" alt="Unity MIDI Piano">
 							<div class="borderline"><div class="darken"><div class="portfolio-text"><p>Unity MIDI Piano</p></div></div></div>
 						</a>
@@ -195,7 +197,25 @@
 
 				<div class="col-sm-3 col-xs-6">
 					<div class="portfolio-item">
-						<a href="../pages/super-pixel-smash.html">
+						<a href="../pages/dr-egg.php">
+							<img src="../img/dr-egg-adventure-lab/thumbnail.png" alt="Dr. Egg Adventure Laboratory">
+							<div class="borderline"><div class="darken"><div class="portfolio-text"><p>Dr. Egg Adventure Laboratory</p></div></div></div>
+						</a>
+					</div>
+				</div>
+
+				<div class="col-sm-3 col-xs-6">
+					<div class="portfolio-item">
+						<a href="../pages/o-koi.php">
+							<img src="../img/o-koi/thumbnail.png" alt="Everything is going to be O-Koi">
+							<div class="borderline"><div class="darken"><div class="portfolio-text"><p>Everything is going to be O-Koi</p></div></div></div>
+						</a>
+					</div>
+				</div>
+
+				<div class="col-sm-3 col-xs-6">
+					<div class="portfolio-item">
+						<a href="../pages/super-pixel-smash.php">
 							<img src="../img/super-pixel-smash/thumbnail.png" alt="Super Pixel Smash">
 							<div class="borderline"><div class="darken"><div class="portfolio-text"><p>Super Pixel Smash</p></div></div></div>
 						</a>

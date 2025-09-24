@@ -68,7 +68,7 @@
 
 			<div id="top">
 				<!-- <img src="img/catdevpete-icon.png" alt="catdevpete"> -->
-				<div id="header-box"><a href="../index.html"><b>PETER LIANG</b></a></div>
+				<div id="header-box"><a href="../index.php"><b>PETER LIANG</b></a></div>
 			</div>
 
 			<!-- Portfolio Item Heading -->
@@ -160,7 +160,7 @@
 
 				<div class="col-sm-3 col-xs-6">
 					<div class="portfolio-item">
-						<a href="../pages/vantari.html">
+						<a href="../pages/vantari.php">
 							<img src="../img/vantari/thumbnail.png" alt="Vantari VR">
 							<div class="borderline"><div class="darken"><div class="portfolio-text"><p>Vantari VR</p></div></div></div>
 						</a>
@@ -169,7 +169,7 @@
 
 				<div class="col-sm-3 col-xs-6">
 					<div class="portfolio-item">
-						<a href="../pages/dr-egg.html">
+						<a href="../pages/dr-egg.php">
 							<img src="../img/dr-egg-adventure-lab/thumbnail.png" alt="Dr. Egg Adventure Laboratory">
 							<div class="borderline"><div class="darken"><div class="portfolio-text"><p>Dr. Egg Adventure Laboratory</p></div></div></div>
 						</a>
@@ -178,7 +178,7 @@
 
 				<div class="col-sm-3 col-xs-6">
 					<div class="portfolio-item">
-						<a href="../pages/o-koi.html">
+						<a href="../pages/o-koi.php">
 							<img src="../img/o-koi/thumbnail.png" alt="Everything is going to be O-Koi">
 							<div class="borderline"><div class="darken"><div class="portfolio-text"><p>Everything is going to be O-Koi</p></div></div></div>
 						</a>
@@ -187,7 +187,7 @@
 
 				<div class="col-sm-3 col-xs-6">
 					<div class="portfolio-item">
-						<a href="../pages/super-pixel-smash.html">
+						<a href="../pages/super-pixel-smash.php">
 							<img src="../img/super-pixel-smash/thumbnail.png" alt="Super Pixel Smash">
 							<div class="borderline"><div class="darken"><div class="portfolio-text"><p>Super Pixel Smash</p></div></div></div>
 						</a>

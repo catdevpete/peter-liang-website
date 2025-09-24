@@ -34,7 +34,7 @@
 		<div id="page-container">
 			<div class="main container">
 				<div id="top">
-					<div id="header-box"><a href="index.html"><b>PETER LIANG</b></a></div>
+					<div id="header-box"><a href="index.php"><b>PETER LIANG</b></a></div>
 				</div>
 				<div id="bottom">
 					<div id="bottom-left">
@@ -50,37 +50,37 @@
 					</div>
 					<div id="bottom-right">
 						<div class="grid-item">
-							<a href="pages/vantari.html">
+							<a href="pages/vantari.php">
 								<img src="img/vantari/thumbnail.png" alt="Vantari VR">
 								<div class="borderline"><div class="darken"><div class="portfolio-text"><p>Vantari VR</p></div></div></div>
 							</a>
 						</div>
 						<div class="grid-item">
-							<a href="pages/unity-midi-piano.html">
+							<a href="pages/unity-midi-piano.php">
 								<img src="img/unity-midi-piano/thumbnail.png" alt="Unity MIDI Piano">
 								<div class="borderline"><div class="darken"><div class="portfolio-text"><p>Unity MIDI Piano</p></div></div></div>
 							</a>
 						</div>
 						<div class="grid-item">
-							<a href="pages/all-our-paradise.html">
+							<a href="pages/all-our-paradise.php">
 								<img src="img/all-our-paradise/thumbnail.png" alt="All Our Paradise">
 								<div class="borderline"><div class="darken"><div class="portfolio-text"><p>All Our Paradise</p></div></div></div>
 							</a>
 						</div>
 						<div class="grid-item">
-							<a href="pages/o-koi.html">
+							<a href="pages/o-koi.php">
 								<img src="img/o-koi/thumbnail.png" alt="Everything is going to be O-Koi">
 								<div class="borderline"><div class="darken"><div class="portfolio-text"><p>Everything is going to be O-Koi</p></div></div></div>
 							</a>
 						</div>
 						<div class="grid-item">
-							<a href="pages/dr-egg.html">
+							<a href="pages/dr-egg.php">
 								<img src="img/dr-egg-adventure-lab/thumbnail.png" alt="Dr. Egg Adventure Laboratory">
 								<div class="borderline"><div class="darken"><div class="portfolio-text"><p>Dr. Egg Adventure Laboratory</p></div></div></div>
 							</a>
 						</div>
 						<div class="grid-item">
-							<a href="pages/super-pixel-smash.html">
+							<a href="pages/super-pixel-smash.php">
 								<img src="img/super-pixel-smash/thumbnail.png" alt="Super Pixel Smash">
 								<div class="borderline"><div class="darken"><div class="portfolio-text"><p>Super Pixel Smash</p></div></div></div>
 							</a>
