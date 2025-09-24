@@ -41,9 +41,13 @@
 						<div class="heading"><p><b>Game & VR Developer</b></p></div>
 						<br>
 						<p>Hey there! I'm a Sydney-based programmer, specialising in Game & VR development.</p><br>
-						<p>Although I am more experienced working with Unity and C#, I am familiar with Unreal & C++ as well.</p><br>
-						<p>I've worked with various platforms and devices, such as iOS, Android, Oculus Rift, HTC Vive, and Microsoft Hololens.</p><br>
-						<p>I am currently working full-time at <a href="https://www.vantarivr.com.au/"><b>Vantari VR</b></a>, developing apps for medical training & assessment.</p><br>
+						<p>I am experienced working with Unity & C#, as well as Unreal & C++.</p><br>
+						<p>I've worked across various platforms and devices, such as iOS, Android, Oculus Rift & Meta Quest, HTC Vive, and Microsoft Hololens.</p><br>
+						<p>My prior work experience includes:</p>
+						<div class="body-text-dots"><ul>
+							<li>PwC Australia's <a href="https://www.pwc.com.au/consulting/digital-transformation/virtual-studios.php"><b>Virtual Studios</b></a> on various XR projects.</li>
+							<li><a href="https://www.vantarivr.com.au/"><b>Vantari VR</b></a> developing apps for medical training & assessment.</li>
+						</ul></div><br>
 						<p>If you wish to reach out to me, you can contact me at:</p>
 						<p><b><a href="mailto:contact@peter-liang.com">contact@peter-liang.com</a></b></p>
 						<p>Alternatively, you can connect with me on <a href="https://www.linkedin.com/in/catdevpete/"><b>Linkedin</b></a>.</p>
@@ -52,37 +56,55 @@
 						<div class="grid-item">
 							<a href="pages/vantari.php">
 								<img src="img/vantari/thumbnail.png" alt="Vantari VR">
-								<div class="borderline"><div class="darken"><div class="portfolio-text"><p>Vantari VR</p></div></div></div>
+								<div class="border"><div class="borderline"><div class="darken"><div class="portfolio-text"><p>Vantari VR</p></div></div></div></div>
+								<div class="icons">
+									<img src="img/icons/unreal-engine.png" alt="Unreal Engine"><img src="img/icons/meta.png" alt="Meta">
+								</div>
 							</a>
 						</div>
 						<div class="grid-item">
 							<a href="pages/unity-midi-piano.php">
 								<img src="img/unity-midi-piano/thumbnail.png" alt="Unity MIDI Piano">
-								<div class="borderline"><div class="darken"><div class="portfolio-text"><p>Unity MIDI Piano</p></div></div></div>
+								<div class="border"><div class="borderline"><div class="darken"><div class="portfolio-text"><p>Unity MIDI Piano</p></div></div></div></div>
+								<div class="icons">
+									<img src="img/icons/unity-engine.png" alt="Unity"><img src="img/icons/github.png" alt="GitHub">
+								</div>
 							</a>
 						</div>
 						<div class="grid-item">
 							<a href="pages/all-our-paradise.php">
 								<img src="img/all-our-paradise/thumbnail.png" alt="All Our Paradise">
-								<div class="borderline"><div class="darken"><div class="portfolio-text"><p>All Our Paradise</p></div></div></div>
+								<div class="border"><div class="borderline"><div class="darken"><div class="portfolio-text"><p>All Our Paradise</p></div></div></div></div>
+								<div class="icons">
+									<img src="img/icons/unity-engine.png" alt="Unity">
+								</div>
 							</a>
 						</div>
 						<div class="grid-item">
 							<a href="pages/o-koi.php">
 								<img src="img/o-koi/thumbnail.png" alt="Everything is going to be O-Koi">
-								<div class="borderline"><div class="darken"><div class="portfolio-text"><p>Everything is going to be O-Koi</p></div></div></div>
+								<div class="border"><div class="borderline"><div class="darken"><div class="portfolio-text"><p>Everything is going to be O-Koi</p></div></div></div></div>
+								<div class="icons">
+									<img src="img/icons/unity-engine.png" alt="Unity"><img src="img/icons/GCP.png" alt="GCP">
+								</div>
 							</a>
 						</div>
 						<div class="grid-item">
 							<a href="pages/dr-egg.php">
 								<img src="img/dr-egg-adventure-lab/thumbnail.png" alt="Dr. Egg Adventure Laboratory">
-								<div class="borderline"><div class="darken"><div class="portfolio-text"><p>Dr. Egg Adventure Laboratory</p></div></div></div>
+								<div class="border"><div class="borderline"><div class="darken"><div class="portfolio-text"><p>Dr. Egg Adventure Laboratory</p></div></div></div></div>
+								<div class="icons">
+									<img src="img/icons/unity-engine.png" alt="Unity"><img src="img/icons/google-play.png" alt="Google Play"><img src="img/icons/apple.png" alt="Apple">
+								</div>
 							</a>
 						</div>
 						<div class="grid-item">
 							<a href="pages/super-pixel-smash.php">
 								<img src="img/super-pixel-smash/thumbnail.png" alt="Super Pixel Smash">
-								<div class="borderline"><div class="darken"><div class="portfolio-text"><p>Super Pixel Smash</p></div></div></div>
+								<div class="border"><div class="borderline"><div class="darken"><div class="portfolio-text"><p>Super Pixel Smash</p></div></div></div></div>
+								<div class="icons">
+									<img src="img/icons/unity-engine.png" alt="Unity"><img src="img/icons/steam.png" alt="Steam"><img src="img/icons/htc-vive.png" alt="HTC VIVE">
+								</div>
 							</a>
 						</div>
 					</div>
@@ -124,7 +146,6 @@
 					</div>
 				</div>
 			</div>
-
 		</div>
 	</body>
 </html>
