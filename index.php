@@ -47,10 +47,13 @@
 						<div class="body-text-dots"><ul>
 							<li>PwC Australia's <a href="https://www.pwc.com.au/consulting/digital-transformation/virtual-studios.php"><b>Virtual Studios</b></a> on various XR projects.</li>
 							<li><a href="https://www.vantarivr.com.au/"><b>Vantari VR</b></a> developing apps for medical training & assessment.</li>
-						</ul></div><br>
-						<p>If you wish to reach out to me, you can contact me at:</p>
-						<p><b><a href="mailto:contact@peter-liang.com">contact@peter-liang.com</a></b></p>
-						<p>Alternatively, you can connect with me on <a href="https://www.linkedin.com/in/catdevpete/"><b>Linkedin</b></a>.</p>
+						</ul></div>
+						<p>Further links:</p>
+						<div class="body-text-dots"><ul>
+							<li><b><a href="mailto:contact@peter-liang.com">Contact@peter-liang.com</a></b></li>
+							<li><a href="https://www.linkedin.com/in/catdevpete/"><b>Linkedin</b></li>
+							<li><a href="https://docs.google.com/document/d/1bScjCMWM4Q3JwKwcl3Xx647AkBNmCsZfIt9LNoTmxKo/edit?usp=sharing"><b>Peter Liang - Resume 2025</b></a></li>
+						</ul></div>
 					</div>
 					<div id="bottom-right">
 						<div class="grid-item">
