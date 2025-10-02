@@ -34,7 +34,7 @@
 		<div id="page-container">
 			<div class="main container">
 				<div id="top">
-					<div id="header-box"><a href="index.php"><b>PETER LIANG</b></a></div>
+					<div id="header-box"><a href="index.html"><b>PETER LIANG</b></a></div>
 				</div>
 				<div id="bottom">
 					<div id="bottom-left">
@@ -45,7 +45,7 @@
 						<p>I've worked across various platforms and devices, such as iOS, Android, Oculus Rift & Meta Quest, HTC Vive, and Microsoft Hololens.</p><br>
 						<p>My prior work experience includes:</p>
 						<div class="body-text-dots"><ul>
-							<li>PwC Australia's <a href="https://www.pwc.com.au/consulting/digital-transformation/virtual-studios.php"><b>Virtual Studios</b></a> on various XR projects.</li>
+							<li>PwC Australia's <a href="https://www.pwc.com.au/consulting/digital-transformation/virtual-studios.html"><b>Virtual Studios</b></a> on various XR projects.</li>
 							<li><a href="https://www.vantarivr.com.au/"><b>Vantari VR</b></a> developing apps for medical training & assessment.</li>
 						</ul></div>
 						<p>Further links:</p>
@@ -57,7 +57,7 @@
 					</div>
 					<div id="bottom-right">
 						<div class="grid-item">
-							<a href="pages/vantari.php">
+							<a href="pages/vantari.html">
 								<img src="img/vantari/thumbnail.png" alt="Vantari VR">
 								<div class="border"><div class="borderline"><div class="darken"><div class="portfolio-text"><p>Vantari VR</p></div></div></div></div>
 								<div class="icons">
@@ -66,7 +66,7 @@
 							</a>
 						</div>
 						<div class="grid-item">
-							<a href="pages/unity-midi-piano.php">
+							<a href="pages/unity-midi-piano.html">
 								<img src="img/unity-midi-piano/thumbnail.png" alt="Unity MIDI Piano">
 								<div class="border"><div class="borderline"><div class="darken"><div class="portfolio-text"><p>Unity MIDI Piano</p></div></div></div></div>
 								<div class="icons">
@@ -75,7 +75,7 @@
 							</a>
 						</div>
 						<div class="grid-item">
-							<a href="pages/all-our-paradise.php">
+							<a href="pages/all-our-paradise.html">
 								<img src="img/all-our-paradise/thumbnail.png" alt="All Our Paradise">
 								<div class="border"><div class="borderline"><div class="darken"><div class="portfolio-text"><p>All Our Paradise</p></div></div></div></div>
 								<div class="icons">
@@ -84,7 +84,7 @@
 							</a>
 						</div>
 						<div class="grid-item">
-							<a href="pages/o-koi.php">
+							<a href="pages/o-koi.html">
 								<img src="img/o-koi/thumbnail.png" alt="Everything is going to be O-Koi">
 								<div class="border"><div class="borderline"><div class="darken"><div class="portfolio-text"><p>Everything is going to be O-Koi</p></div></div></div></div>
 								<div class="icons">
@@ -93,7 +93,7 @@
 							</a>
 						</div>
 						<div class="grid-item">
-							<a href="pages/dr-egg.php">
+							<a href="pages/dr-egg.html">
 								<img src="img/dr-egg-adventure-lab/thumbnail.png" alt="Dr. Egg Adventure Laboratory">
 								<div class="border"><div class="borderline"><div class="darken"><div class="portfolio-text"><p>Dr. Egg Adventure Laboratory</p></div></div></div></div>
 								<div class="icons">
@@ -102,7 +102,7 @@
 							</a>
 						</div>
 						<div class="grid-item">
-							<a href="pages/super-pixel-smash.php">
+							<a href="pages/super-pixel-smash.html">
 								<img src="img/super-pixel-smash/thumbnail.png" alt="Super Pixel Smash">
 								<div class="border"><div class="borderline"><div class="darken"><div class="portfolio-text"><p>Super Pixel Smash</p></div></div></div></div>
 								<div class="icons">
@@ -144,7 +144,7 @@
 					</div>
 			
 					<div class="col-xs-12 col-sm-4 copyright">
-						<p>&copy; Peter Liang 2021-<?php echo date("Y");?></p>
+						<p>&copy; Peter Liang 2021-2025</p>
 						<p><a href="mailto:contact@peter-liang.com">contact@peter-liang.com</a></p>
 					</div>
 				</div>

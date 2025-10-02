@@ -76,7 +76,7 @@
 
 			<div id="top">
 				<!-- <img src="img/catdevpete-icon.png" alt="catdevpete"> -->
-				<div id="header-box"><a href="../index.php"><b>PETER LIANG</b></a></div>
+				<div id="header-box"><a href="../index.html"><b>PETER LIANG</b></a></div>
 			</div>
 
 			<!-- Portfolio Item Heading -->
@@ -168,7 +168,7 @@
 
 				<div class="col-sm-3 col-xs-6">
 					<div class="portfolio-item">
-						<a href="../pages/o-koi.php">
+						<a href="../pages/o-koi.html">
 							<img src="../img/o-koi/thumbnail.png" alt="Everything is going to be O-Koi">
 							<div class="borderline"><div class="darken"><div class="portfolio-text"><p>Everything is going to be O-Koi</p></div></div></div>
 						</a>
@@ -177,7 +177,7 @@
 
 				<div class="col-sm-3 col-xs-6">
 					<div class="portfolio-item">
-						<a href="../pages/dr-egg.php">
+						<a href="../pages/dr-egg.html">
 							<img src="../img/dr-egg-adventure-lab/thumbnail.png" alt="Dr. Egg Adventure Laboratory">
 							<div class="borderline"><div class="darken"><div class="portfolio-text"><p>Dr. Egg Adventure Laboratory</p></div></div></div>
 						</a>
@@ -186,7 +186,7 @@
 
 				<div class="col-sm-3 col-xs-6">
 					<div class="portfolio-item">
-						<a href="../pages/unity-midi-piano.php">
+						<a href="../pages/unity-midi-piano.html">
 							<img src="../img/unity-midi-piano/thumbnail.png" alt="Unity MIDI Piano">
 							<div class="borderline"><div class="darken"><div class="portfolio-text"><p>Unity MIDI Piano</p></div></div></div>
 						</a>
@@ -195,7 +195,7 @@
 
 				<div class="col-sm-3 col-xs-6">
 					<div class="portfolio-item">
-						<a href="../pages/super-pixel-smash.php">
+						<a href="../pages/super-pixel-smash.html">
 							<img src="../img/super-pixel-smash/thumbnail.png" alt="Super Pixel Smash">
 							<div class="borderline"><div class="darken"><div class="portfolio-text"><p>Super Pixel Smash</p></div></div></div>
 						</a>
@@ -240,7 +240,7 @@
 				</div>
 		
 				<div class="col-xs-12 col-sm-4 copyright">
-					<p>&copy; Peter Liang 2021-<?php echo date("Y");?></p>
+					<p>&copy; Peter Liang 2021-2025</p>
 					<p><a href="mailto:contact@peter-liang.com">contact@peter-liang.com</a></p>
 				</div>
 			</div>

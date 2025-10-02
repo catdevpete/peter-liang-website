@@ -84,7 +84,7 @@
 
 			<div id="top">
 				<!-- <img src="img/catdevpete-icon.png" alt="catdevpete"> -->
-				<div id="header-box"><a href="../index.php"><b>PETER LIANG</b></a></div>
+				<div id="header-box"><a href="../index.html"><b>PETER LIANG</b></a></div>
 			</div>
 
 			<!-- Portfolio Item Heading -->
@@ -175,7 +175,7 @@
 
 				<div class="col-sm-3 col-xs-6">
 					<div class="portfolio-item">
-						<a href="../pages/vantari.php">
+						<a href="../pages/vantari.html">
 							<img src="../img/vantari/thumbnail.png" alt="Vantari VR">
 							<div class="borderline"><div class="darken"><div class="portfolio-text"><p>Vantari VR</p></div></div></div>
 						</a>
@@ -184,7 +184,7 @@
 
 				<div class="col-sm-3 col-xs-6">
 					<div class="portfolio-item">
-						<a href="../pages/all-our-paradise.php">
+						<a href="../pages/all-our-paradise.html">
 							<img src="../img/all-our-paradise/thumbnail.png" alt="All Our Paradise">
 							<div class="borderline"><div class="darken"><div class="portfolio-text"><p>All Our Paradise</p></div></div></div>
 						</a>
@@ -193,7 +193,7 @@
 
 				<div class="col-sm-3 col-xs-6">
 					<div class="portfolio-item">
-						<a href="../pages/o-koi.php">
+						<a href="../pages/o-koi.html">
 							<img src="../img/o-koi/thumbnail.png" alt="Everything is going to be O-Koi">
 							<div class="borderline"><div class="darken"><div class="portfolio-text"><p>Everything is going to be O-Koi</p></div></div></div>
 						</a>
@@ -202,7 +202,7 @@
 
 				<div class="col-sm-3 col-xs-6">
 					<div class="portfolio-item">
-						<a href="../pages/super-pixel-smash.php">
+						<a href="../pages/super-pixel-smash.html">
 							<img src="../img/super-pixel-smash/thumbnail.png" alt="Super Pixel Smash">
 							<div class="borderline"><div class="darken"><div class="portfolio-text"><p>Super Pixel Smash</p></div></div></div>
 						</a>
@@ -247,7 +247,7 @@
 				</div>
 		
 				<div class="col-xs-12 col-sm-4 copyright">
-					<p>&copy; Peter Liang 2021-<?php echo date("Y");?></p>
+					<p>&copy; Peter Liang 2021-2025</p>
 					<p><a href="mailto:contact@peter-liang.com">contact@peter-liang.com</a></p>
 				</div>
 			</div>
